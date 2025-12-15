@@ -223,7 +223,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-71" value="Input: Data Loss MSE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-71" value="Input: Data Loss MSE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="480" y="500" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-72" target="e6D6-BQkf_cmyiGOmByP-75">
@@ -257,10 +257,10 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-76" value="Output: head_dh" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="720" y="390" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-77" value="Output: head_smb" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-77" value="Output: head_smb" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="710" y="420" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-78" value="Output: head_K" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-78" value="Output: head_K" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="707" y="450" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-87" target="e6D6-BQkf_cmyiGOmByP-89">
