@@ -212,7 +212,7 @@
           <mxGeometry x="720" y="425" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-78" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="465" width="120" height="40" as="geometry" />
+          <mxGeometry x="710" y="465" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
