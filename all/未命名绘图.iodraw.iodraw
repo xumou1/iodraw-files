@@ -310,6 +310,9 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-101" value="Norm Params(.json)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1245.25" y="482.5" width="112.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-102" value="Model File(.pt)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1257.5" y="550" width="88" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
