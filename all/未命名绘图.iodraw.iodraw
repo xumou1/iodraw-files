@@ -390,8 +390,11 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-123" value="Farinotti 2019 Results" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1017" y="630" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-124" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-124" value="Hugonnet 2021 Results" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1017" y="710" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-123" target="e6D6-BQkf_cmyiGOmByP-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
