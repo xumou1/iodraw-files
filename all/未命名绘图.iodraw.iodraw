@@ -343,16 +343,6 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-108" value="CMIP6 Climate Scenario" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="50" y="710" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-94" target="e6D6-BQkf_cmyiGOmByP-105">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1393" y="418" />
-              <mxPoint x="1393" y="620" />
-              <mxPoint x="180" y="620" />
-              <mxPoint x="180" y="650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-95" target="e6D6-BQkf_cmyiGOmByP-106">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -380,6 +370,19 @@
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-120" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="610" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-94" target="e6D6-BQkf_cmyiGOmByP-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1393" y="418" />
+              <mxPoint x="1393" y="620" />
+              <mxPoint x="180" y="620" />
+              <mxPoint x="180" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-121" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
