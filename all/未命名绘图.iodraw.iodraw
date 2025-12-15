@@ -161,7 +161,7 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-53" value="ERA5 Processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="465" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-54" value="PDE Calculation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
