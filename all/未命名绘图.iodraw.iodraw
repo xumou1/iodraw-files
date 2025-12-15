@@ -183,9 +183,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="440" />
-              <mxPoint x="560" y="440" />
-              <mxPoint x="560" y="430" />
-              <mxPoint x="543" y="430" />
+              <mxPoint x="543" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -195,7 +193,7 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-69" value="Optimizer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="450" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-71" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-71" value="Input: Data Loss MSE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="500" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-72" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
