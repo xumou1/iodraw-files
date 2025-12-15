@@ -173,11 +173,17 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-54" value="PDE Calculation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-60" target="e6D6-BQkf_cmyiGOmByP-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-60" value="PINN Backbone Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="390" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-67" value="Output Heads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
