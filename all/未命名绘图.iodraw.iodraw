@@ -211,7 +211,7 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-77" value="Output: head_smb" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="420" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-78" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-78" value="Output: head_K" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="450" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
