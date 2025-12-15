@@ -304,7 +304,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-100" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-100" value="Model File(.pt)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1272" y="415" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
