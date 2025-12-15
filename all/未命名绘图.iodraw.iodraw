@@ -368,7 +368,7 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-118" value="&lt;b&gt;Output: Predic Table&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="773" y="680" width="137" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-120" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-120" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;dashed=1;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="970" y="610" width="410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-109" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fontFamily=Times New Roman;strokeWidth=1.5;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-94" target="e6D6-BQkf_cmyiGOmByP-105">
