@@ -13,10 +13,10 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-3" value="&lt;b&gt;Data Storage:&lt;/b&gt;&lt;div&gt;&lt;b&gt;Each glacier(e.g. RGI60-13.00001)&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="980" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-7" value="Branch A(Vector)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -33,7 +33,7 @@
             <mxPoint x="300" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-10" value="Read Glacier Outline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-10" value="Read Glacier Outline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="250" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-11" value="&lt;b&gt;Output: outline.shp&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -108,7 +108,7 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-39" target="e6D6-BQkf_cmyiGOmByP-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-39" value="Feature Standarization" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-39" value="Feature Standarization" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-40" target="e6D6-BQkf_cmyiGOmByP-42">
