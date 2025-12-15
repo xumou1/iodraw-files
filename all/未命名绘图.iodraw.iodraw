@@ -109,7 +109,7 @@
           <mxGeometry x="200" y="300" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-40" value="K-Means Clustering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="150" height="60" as="geometry" />
+          <mxGeometry x="405" y="300" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
