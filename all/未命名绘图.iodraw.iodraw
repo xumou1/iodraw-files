@@ -344,8 +344,8 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-95" target="e6D6-BQkf_cmyiGOmByP-106">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1393" y="485" />
-              <mxPoint x="1393" y="590" />
+              <mxPoint x="1400" y="485" />
+              <mxPoint x="1400" y="590" />
               <mxPoint x="180" y="590" />
               <mxPoint x="180" y="710" />
             </Array>
