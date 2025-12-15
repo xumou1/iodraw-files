@@ -42,6 +42,9 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-15" target="e6D6-BQkf_cmyiGOmByP-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-15" target="e6D6-BQkf_cmyiGOmByP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-15" value="Read Raster Data&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;Surface DEM Thickness)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="135" width="150" height="35" as="geometry" />
         </mxCell>
