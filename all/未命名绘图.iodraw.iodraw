@@ -188,6 +188,9 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-69" value="Optimizer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="460" width="275" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-71" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
