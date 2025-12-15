@@ -63,7 +63,7 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-17" value="Cliping and Reprojection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="405" y="195" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;fontFamily=Times New Roman;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-18" target="e6D6-BQkf_cmyiGOmByP-33">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;fontFamily=Times New Roman;strokeWidth=1.5;" edge="1" parent="1" source="e6D6-BQkf_cmyiGOmByP-18" target="e6D6-BQkf_cmyiGOmByP-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-18" value="Statistic Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
