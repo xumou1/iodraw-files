@@ -365,7 +365,7 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-116" value="Batch Prediction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="587" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-118" value="Output: Predic Table" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-118" value="&lt;b&gt;Output: Predic Table&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="773" y="680" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-120" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" vertex="1" parent="1">
