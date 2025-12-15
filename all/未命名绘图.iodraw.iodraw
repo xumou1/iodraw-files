@@ -319,14 +319,14 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-104" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="610" width="1350" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-105" value="Load Model Weight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="630" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="640" width="150" height="40" as="geometry" />
+          <mxGeometry x="200" y="690" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="740" width="150" height="40" as="geometry" />
+          <mxGeometry x="200" y="750" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
