@@ -141,7 +141,7 @@
           <mxGeometry x="30" y="370" width="1350" height="230" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-50" value="ERA5 Climate Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="50" y="420" width="110" height="90" as="geometry" />
+          <mxGeometry x="50" y="440" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
