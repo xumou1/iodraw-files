@@ -40,7 +40,7 @@
           <mxGeometry x="390" y="110" width="390" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="135" width="125" height="35" as="geometry" />
+          <mxGeometry x="520" y="135" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-16" value="Branch B(Raster)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="110" width="95" height="30" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry x="405" y="190" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="190" width="140" height="40" as="geometry" />
+          <mxGeometry x="620" y="190" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
