@@ -311,7 +311,7 @@
           <mxGeometry x="1245.25" y="482.5" width="112.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-102" value="&lt;b&gt;Output: Training Log&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="550" width="117.75" height="30" as="geometry" />
+          <mxGeometry x="1245.25" y="550" width="117.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-103" value="3. Model Training" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="120" height="30" as="geometry" />
@@ -384,10 +384,10 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-121" value="4. Futur Prediction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="60" y="620" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-122" value="Data Storage:&amp;nbsp;&lt;div&gt;Each glacier&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-122" value="&lt;b&gt;Data Storage:&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Each glacier&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1223.5" y="660" width="122" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-123" value="Farinotti 2019 Results" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-123" value="&lt;b&gt;Farinotti 2019 Results&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1017" y="630" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e6D6-BQkf_cmyiGOmByP-124" value="Hugonnet 2021 Results" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;" vertex="1" parent="1">
