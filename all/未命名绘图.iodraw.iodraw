@@ -63,8 +63,8 @@
         <mxCell id="e6D6-BQkf_cmyiGOmByP-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="110" width="343" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="e6D6-BQkf_cmyiGOmByP-25" value="Branch C(Observation data)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="942" y="110" width="158" height="30" as="geometry" />
+        <mxCell id="e6D6-BQkf_cmyiGOmByP-25" value="Branch C(Observation)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="110" width="158" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
